@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"Alle Klassen und Schnittstellen","u":"allclasses-index.html"},{"p":"xyz.titanecho.topgamesapi","l":"TopGamesClient.Builder"},{"p":"xyz.titanecho.topgamesapi.model","l":"Game"},{"p":"xyz.titanecho.topgamesapi","l":"TopGamesClient"},{"p":"xyz.titanecho.topgamesapi","l":"TopGamesException"}];updateSearchResults();
